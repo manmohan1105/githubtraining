@@ -4,7 +4,7 @@
 </div>
 
 <!-- Markdown -->
-h
+
 
 ## Given a binary string and a number k  you have to count the no. of substring that has count of ones and count of zero as multiple of k 
 
